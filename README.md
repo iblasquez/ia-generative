@@ -12,6 +12,8 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
 
 ### Vidéos
 
+- **[Accelerate Code Quality in the AI Age](https://www.youtube.com/watch?v=9ciQx0k2bXM)** par Adam Tornhill ([CodeScene](https://codescene.com))  (Novembre 2024 : [slides](https://tinyurl.com/mue8792n) de la vidéo et [présentation](https://codescene.com/product/ai-coding) et [Documentation](https://codescene.io/docs/auto-refactor/index.html) de l'outil Codescene ace : Fix Complex Code with AI
+
 - **[Du coaching au code : comment l'IA peut accélérer l'apprentissage](https://www.youtube.com/watch?v=08eweXx-fQI)**(octobre 2024 - webinaire) par Laurent Py (Packmind) et Christian Finel (Arolla)
 
 - **[AI and Code Quality: Building a Synergy with Human Intelligence](https://www.youtube.com/watch?v=BmyxMp_C_x0)**(octobre 2024 - devoxx) par Arthur Magne (Packmind)  
