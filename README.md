@@ -18,6 +18,15 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
 
 - **[AI and Code Quality: Building a Synergy with Human Intelligence](https://www.youtube.com/watch?v=BmyxMp_C_x0)**(octobre 2024 - devoxx) par Arthur Magne (Packmind)  
 
+- Les webinaires de [Skills4All](https://www.skills4all.com/webinars):
+
+  - **[Comment automatiser votre travail avec MISTRAL et cas d'usages](https://www.youtube.com/watch?v=SoJHQuZ0dzA)** (avril 2024) par Thibaut Watrigant  
+    - Présentation générale IA genarative, Mistral,  exemple de satisfaction client (note + génération de mail), automatisation avec Make (no code).
+
+## Testing with generative AI
+
+- [Ebook Testing with Generative AI : A practical guide](https://content.smartesting.com/en/ebook-testing-with-generative-ai) (Novembre 2024) par Bruno Legeard et Anne Kramer
+
 - Les webinaires de [SmartTesting](https://www.smartesting.com/) & [UpSkill4IT](https://upskill4it.com/)
 
   - **[Comment maîtriser l'IA générative pour vos tests ?](https://www.youtube.com/watch?v=IR4pReXmUwI)** (mars 2024) par Bruno Legeard
@@ -27,10 +36,7 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
     - Le test c'est du texte et les LLM se prêtent bien au texte : l'IA générative est donc bien adaptée pour les tests et les cas d'usage de l'IA générative pour les tests sont donc très nombreux ...
     - Rag vs Agent IA  
 
-- Les webinaires de [Skills4All](https://www.skills4all.com/webinars):
-
-  - **[Comment automatiser votre travail avec MISTRAL et cas d'usages](https://www.youtube.com/watch?v=SoJHQuZ0dzA)** (avril 2024) par Thibaut Watrigant  
-    - Présentation générale IA genarative, Mistral,  exemple de satisfaction client (note + génération de mail), automatisation avec Make (no code).
+- plus de vidéos sur la **[chaine youtube de Smartesting](https://www.youtube.com/@smartesting)**
 
 ## Etudes GenIA & qualité de code
 
