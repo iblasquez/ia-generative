@@ -10,7 +10,7 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
 
 - **[Viens dompter ta première IA en Python](https://noti.st/philippart-s/txvlLc/viens-dompter-ta-premiere-ia-en-python)** par Stéphane Philippart (Ete 2024 : [slides & video Voxedd Days Luxembourg](https://noti.st/philippart-s/txvlLc/viens-dompter-ta-premiere-ia-en-python) et [slides Devoxx France](https://noti.st/philippart-s/Ibtjgt/viens-dompter-ta-premiere-ia-en-python))
 
-### Vidéos
+## Vidéos
 
 - **[Accelerate Code Quality in the AI Age](https://www.youtube.com/watch?v=9ciQx0k2bXM)** par Adam Tornhill ([CodeScene](https://codescene.com))  (Novembre 2024 : [slides](https://tinyurl.com/mue8792n) de la vidéo et [présentation](https://codescene.com/product/ai-coding) et [Documentation](https://codescene.io/docs/auto-refactor/index.html) de l'outil Codescene ace : Fix Complex Code with AI
 
@@ -18,10 +18,20 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
 
 - **[AI and Code Quality: Building a Synergy with Human Intelligence](https://www.youtube.com/watch?v=BmyxMp_C_x0)**(octobre 2024 - devoxx) par Arthur Magne (Packmind)  
 
-- Les webinaires de [Skills4All](https://www.skills4all.com/webinars):
+- Les **[webinaires de Skills4All](https://www.skills4all.com/webinars)**:
 
   - **[Comment automatiser votre travail avec MISTRAL et cas d'usages](https://www.youtube.com/watch?v=SoJHQuZ0dzA)** (avril 2024) par Thibaut Watrigant  
     - Présentation générale IA genarative, Mistral,  exemple de satisfaction client (note + génération de mail), automatisation avec Make (no code).
+
+    - plus de vidéos sur la **[chaine youtube de Skills4All](https://www.youtube.com/@Skills4All/videos)**
+
+## Limites sur les modèles d'iIA
+
+- [Intelligence Artificielle: la fin du bullshit ? (AI News)](https://www.youtube.com/watch?v=L449Qrc0U4k) (Novembre 2024) : vidéo de la [chaine youtube Artificialis Code](https://www.youtube.com/@ArtificialisCode)
+
+- [The Misunderstood Musings of AI: Confabulation, Not Hallucination](https://thomasramsoy.com/index.php/2024/03/12/the-misunderstood-musings-of-ai-confabulation-not-hallucination) (Décembre 2024) par Thomas Ramsoy
+
+- [Sur les dangers des perroquets stochastiques)](https://www.youtube.com/watch?v=fAT52n5Lavg) (Avril 2023) : vidéo de la [chaine youtube Artificialis Code](https://www.youtube.com/@ArtificialisCode)
 
 ## Testing with generative AI
 
@@ -44,6 +54,13 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
 - [Sea Change in Software Development: Economic and Productivity Analysis of the AI-Powered Developer Lifecycle](https://arxiv.org/abs/2306.15033) (2023)par Thomas Dohmke (GitHub), Marco Iansiti (Harvard Business School and Keystone.AI), Greg Richards (Keystone.AI)
 - [Survey reveals AI's impact on the developer experience](https://github.blog/news-insights/research/survey-reveals-ais-impact-on-the-developer-experience/) (June 2023)
 - [Can GenAI Actually Improve Developer Productivity?](https://resources.uplevelteam.com/gen-ai-for-coding) par UpLevel Data Lab
+
+## Gen AI Network
+
+- GenAI Network (la communauté des pionniers de l'intelligence artificielle générative) : <https://www.genainetwork.org/>
+  - [Replay des meetups](https://www.youtube.com/@GenAINetwork)
+  - [Podcast Paroles d'IA](https://smartlink.ausha.co/paroles-d-ia-2)
+  - [GenAI Network sur LinkedIn](https://www.linkedin.com/company/genai%E2%80%93network/posts)
 
 ## Livres
 
@@ -90,9 +107,11 @@ Installation quarkus sous Windows avec [chocolatey](https://chocolatey.org/) ;-)
 - [Developer quickstart- Learn how to make your first API request.](https://platform.openai.com/docs/quickstart)
 - [Documentation API par exemple sur le Endpoint autour du modèle de Chat (détails des paramètres dans les Request/Response, chat completion object, chat completion chunk object)](https://platform.openai.com/docs/api-reference/chat)
 
-## Gen AI Network
+## Transformers
 
-- GenAI Network (la communauté des pionniers de l'intelligence artificielle générative) : <https://www.genainetwork.org/>
-  - [Replay des meetups](https://www.youtube.com/@GenAINetwork)
-  - [Podcast Paroles d'IA](https://smartlink.ausha.co/paroles-d-ia-2)
-  - [GenAI Network sur LinkedIn](https://www.linkedin.com/company/genai%E2%80%93network/posts)
+- Vidéos *Transformers en dessin* (automne 2023) sur la [chaine youtube d'Alexandre TL](https://www.youtube.com/@alexandretl)
+  - [#1 Comprendre les Transformers en 10 minutes](https://www.youtube.com/watch?v=46XbjplgwOw)
+  - [#2 Transformers : têtes d'attention et couches](https://www.youtube.com/watch?v=Xe--F4RGN_0)
+  - [#3 Architecture encodeur-décodeur du Transformer](https://www.youtube.com/watch?v=lCMHkS1KT-c)
+
+- [Comprendre les Transformers et les mécanismes d'attention](https://www.youtube.com/watch?v=LALTmQhVkfU) (septembre 2021) : vidéo par [Thibault Neveu](https://www.youtube.com/@ThibaultNeveu)
