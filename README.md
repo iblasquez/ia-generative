@@ -91,7 +91,12 @@ Installation quarkus sous Windows avec [chocolatey](https://chocolatey.org/) ;-)
 
 - [Introduction to LangChain](https://www.baeldung.com/java-langchain-basics)
 - [Leveraging Quarkus and LangChain4j](https://www.baeldung.com/java-quarkus-langchain4j)
+
+## LangChain4J, what's else ? Spring AI,Semantic Kernel
+
 - [Spring AI](https://github.com/eugenp/tutorials/tree/master/spring-ai)
+- [Microsoft Learn Challenge : Getting started with Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-java)
+- [A comparative overview of LangChain, Semantic Kernel, AutoGen and more](https://medium.com/data-science-at-microsoft/harnessing-the-power-of-large-language-models-a-comparative-overview-of-langchain-semantic-c21f5c19f93e)
 
 ## Ollama
 
@@ -115,3 +120,12 @@ Installation quarkus sous Windows avec [chocolatey](https://chocolatey.org/) ;-)
   - [#3 Architecture encodeur-décodeur du Transformer](https://www.youtube.com/watch?v=lCMHkS1KT-c)
 
 - [Comprendre les Transformers et les mécanismes d'attention](https://www.youtube.com/watch?v=LALTmQhVkfU) (septembre 2021) : vidéo par [Thibault Neveu](https://www.youtube.com/@ThibaultNeveu)
+
+## Embeddings
+
+- [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4) : vidéo de la [chaine AssembyAI]
+- Les deux première minutes de la vidéo [Utiliser la recherche vectorielle pour l'IA générative](https://www.youtube.com/watch?v=ctnuS_m_LkY)
+
+- [IA et vecteurs, quand vos données prennent tout leur sens](https://www.atipik.ch/fr/blog/comprendre-intelligence-artificielle-bases-donnees-vectorielles) : bloc atipik
+- [Qu'est-ce qu'une « intégration » ? (embedding)](https://www.cloudflare.com/fr-fr/learning/ai/what-are-embeddings/)
+- [Que sont les intégrations en machine learning ?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
