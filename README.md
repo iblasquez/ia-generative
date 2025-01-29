@@ -36,6 +36,7 @@ Mémo pour retrouver facilement les ressources qui m'ont permis d'en savoir plus
 ## Testing with generative AI
 
 - [Ebook Testing with Generative AI : A practical guide](https://content.smartesting.com/en/ebook-testing-with-generative-ai) (Novembre 2024) par Bruno Legeard et Anne Kramer
+  - [version française de l'Ebook Tester avec l'IA Générative](https://content.smartesting.com/fr/ebook-testez-avec-l-ia-generative)
 
 - Les webinaires de [SmartTesting](https://www.smartesting.com/) & [UpSkill4IT](https://upskill4it.com/)
 
@@ -129,3 +130,24 @@ Installation quarkus sous Windows avec [chocolatey](https://chocolatey.org/) ;-)
 - [IA et vecteurs, quand vos données prennent tout leur sens](https://www.atipik.ch/fr/blog/comprendre-intelligence-artificielle-bases-donnees-vectorielles) : bloc atipik
 - [Qu'est-ce qu'une « intégration » ? (embedding)](https://www.cloudflare.com/fr-fr/learning/ai/what-are-embeddings/)
 - [Que sont les intégrations en machine learning ?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+
+## Liens entre IA et Cybersécurité
+
+- [Rapport de l'ANSSI : Recommandations de sécurité pour un système d’IA générative](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative)
+
+- [Vidéo : Décryptage des idées reçues sur l’IA en Cybersécurité](https://www.youtube.com/watch?v=KQNTVSVl8YU) 
+
+## Vulgarisation
+
+- [Generative AI in a Nutshell d'Henrifk Kniber (version originale)](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+  - [version française (doublage par Fabien Lothon)](https://www.youtube.com/watch?v=AkPW3zWHA7w)
+
+  - [Le guide "Intelligence Artificielle Générative" de L'Université de Genève (UNIGE)](https://www.unige.ch/numerique/fr/plan-daction/ia1/accueil/guide-pratique-ia/)
+
+- [Vous voulez voir ce qui se passe dans la petite tête de GPT-4 quand vous lui parlez ? : Illustration du comportement d'un réseau de neurones artificiels entrainés pour reconnaître un chiffre de chiffre de 0 à 9](https://www.linkedin.com/posts/martin-pavanello-9158b6128_vous-voulez-voir-ce-qui-se-passe-dans-la-ugcPost-7256574522349309952-giJx)
+
+- [5 min pour découvrir l'IA à travers le regard d'une biologiste : Comment évaluer un modèle ? par Ophélie Gaudin](https://www.linkedin.com/posts/ophelie-gaudin_comment-%C3%A9valuer-un-mod%C3%A8le-ugcPost-7267506358239875072-WGe6)
+
+- [L'horreur existentielle de l'usine à trombones par EGO](https://www.youtube.com/watch?v=ZP7T6WAK3Ow)
+
+- [A propos de la notion d'alignement](https://www.linkedin.com/posts/flavienchervet_alignement-ia-gpt-activity-7274725013373472771-OMT2) : lire aussi les commentaires ;-)
