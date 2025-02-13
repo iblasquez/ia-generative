@@ -131,11 +131,19 @@ Installation quarkus sous Windows avec [chocolatey](https://chocolatey.org/) ;-)
 - [Qu'est-ce qu'une « intégration » ? (embedding)](https://www.cloudflare.com/fr-fr/learning/ai/what-are-embeddings/)
 - [Que sont les intégrations en machine learning ?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
 
+## [GenAI sur le blog Martin Fowler](https://martinfowler.com/tags/generative%20AI.html)
+
+- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns) (Fev 2025)
+- [Where Is SW Development Going?](https://www.youtube.com/watch?v=86-Dy5U2p5Y) (video janv 2025)
+- [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html) (nov 2024)
+- [Legacy Modernization meets GenAI](https://martinfowler.com/articles/legacy-modernization-gen-ai.html) (sept 2024)
+- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html) (avril 2023)
+
 ## Liens entre IA et Cybersécurité
 
-- [Rapport de l'ANSSI : Recommandations de sécurité pour un système d’IA générative](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative)
+- [Rapport de l'ANSSI : Recommandations de sécurité pour un système d'IA générative](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative)
 
-- [Vidéo : Décryptage des idées reçues sur l’IA en Cybersécurité](https://www.youtube.com/watch?v=KQNTVSVl8YU) 
+- [Vidéo : Décryptage des idées reçues sur l'IA en Cybersécurité](https://www.youtube.com/watch?v=KQNTVSVl8YU)
 
 ## Vulgarisation
 
